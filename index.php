@@ -8,7 +8,7 @@ $countryResult = $countryStateCity->getAllCountry();
 ?>
 <html>
 <head>
-<TITLE>Search sites</TITLE>
+<TITLE>Search sites - map</TITLE>
 <head>
 <link href="./assets/css/style.css" rel="stylesheet" type="text/css" />
 <script src="./vendor/jquery/jquery-3.2.1.min.js" type="text/javascript"></script>
