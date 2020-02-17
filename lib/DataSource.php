@@ -12,13 +12,13 @@ class DataSource
 
     // PHP 7.1.0 visibility modifiers are allowed for class constants.
     // when using above 7.1.0, declare the below constants as private
-    private const HOST = 'localhost';
+    private const HOST = 'sql9.freemysqlhosting.net';
 
-    private const USERNAME = 'root';
+    private const USERNAME = 'sql9323080';
 
-    private const PASSWORD = '';
+    private const PASSWORD = 'fhHBC3LR2h';
 
-    private const DATABASENAME = 'test';
+    private const DATABASENAME = 'sql9323080';
 
     private $conn;
 
