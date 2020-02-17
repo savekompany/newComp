@@ -8,7 +8,7 @@ $countryResult = $countryStateCity->getAllCountry();
 ?>
 <html>
 <head>
-<TITLE>Sir Mr Amrit Mohapatra's 1 hour challenge</TITLE>
+<TITLE>Search sites</TITLE>
 <head>
 <link href="./assets/css/style.css" rel="stylesheet" type="text/css" />
 <script src="./vendor/jquery/jquery-3.2.1.min.js" type="text/javascript"></script>
